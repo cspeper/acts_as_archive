@@ -7,3 +7,7 @@ spec/fixtures/builds
 spec/fixtures/log
 tmp
 vendor
+
+# Ignore RubyMine files
+/.idea
+/.idea/*
